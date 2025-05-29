@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unión de Intervalos Traslapados", "Unión de Intervalos Traslapados\Unión de Intervalos Traslapados.csproj", "{BC9E9B89-BF13-452E-A5ED-A3BBC0A50B46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verificación de Anagramas", "Verificación de Anagramas\Verificación de Anagramas.csproj", "{771D7734-E0D8-4762-AD6B-D0483167325F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC9E9B89-BF13-452E-A5ED-A3BBC0A50B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC9E9B89-BF13-452E-A5ED-A3BBC0A50B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC9E9B89-BF13-452E-A5ED-A3BBC0A50B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC9E9B89-BF13-452E-A5ED-A3BBC0A50B46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{771D7734-E0D8-4762-AD6B-D0483167325F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{771D7734-E0D8-4762-AD6B-D0483167325F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{771D7734-E0D8-4762-AD6B-D0483167325F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{771D7734-E0D8-4762-AD6B-D0483167325F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AEFC6BB-42AF-4A0C-BF30-A51918BB146C}
+	EndGlobalSection
+EndGlobal
